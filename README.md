@@ -4,7 +4,7 @@
 
 <td>
 
-| [libft](https://github.com/pepedinho/Libft)  | [ft_printf](https://github.com/pasqualerossi/printf_OK) | [get_next_line](https://github.com/pasqualerossi/get_next_line) | [push_swap](https://github.com/pepedinho/push_swap) | [pipex](https://github.com/pasqualerossi/pipex)  |
+| [📚libft](https://github.com/pepedinho/Libft)  | [🖨️ft_printf](https://github.com/pasqualerossi/printf_OK) | [👨‍🔧get_next_line](https://github.com/pasqualerossi/get_next_line) | [🧮push_swap](https://github.com/pepedinho/push_swap) | [🔀pipex](https://github.com/pasqualerossi/pipex)  |
 |--|--|--|--|--|
 
 </td>
