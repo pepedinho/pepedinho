@@ -8,10 +8,3 @@
 |--|--|--|--|--|
 
 </td>
-
-
-<img src="https://i.pinimg.com/originals/43/5d/74/435d748ef524fe458aebfae1edca3dfa.gif" width="1000" height="400">
-
-
-
-
