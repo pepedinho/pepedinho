@@ -11,6 +11,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://media.tenor.com/XaO3AeNkgzQAAAAi/one-piece-pixel.gif" width="250" height="100">
-  <img src="https://media.tenor.com/Du4DUU1_wGUAAAAi/one-piece-pixel.gif" width="200" height="200">
-  <img src="https://i.pinimg.com/originals/36/7d/f0/367df01d2c37abcf570751716db92971.gif" width="200" height="125">
+  <img src="https://media.tenor.com/Du4DUU1_wGUAAAAi/one-piece-pixel.gif" style="transform: scaleY(-1);" width="200" height="200">
 </div>
