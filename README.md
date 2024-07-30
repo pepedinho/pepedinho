@@ -10,6 +10,7 @@ pepe@localhost
 -----------------------
 User: Imad
 OS: Arch Linux / Ubuntu
+GPU: NVIDIA GeForce RTX 3060
 Shell: zsh
 Language: C, Rust, Python
 Currently : student
