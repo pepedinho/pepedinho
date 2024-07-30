@@ -1,5 +1,5 @@
 ```zsh
-> whoiam
+> neofetch
 ```
 
 <img align="left" alt="oui" src="https://img.freepik.com/premium-photo/iridescent-fluid-texture-background_125540-5994.jpg" width="228" height="228" />
