@@ -32,7 +32,7 @@ School: 42
 
 <td>
 
-| [📚 libft](https://github.com/pepedinho/Libft)  | [🖨️ ft_printf](https://github.com/pepedinho/printf_OK) | [👨‍🔧 get_next_line](https://github.com/pepedinho/get_next_line) | [🧮 push_swap](https://github.com/pepedinho/push_swap) | [🔀 pipex](https://github.com/pepedinho/pipex)  | [🧝‍♂️ so_long](https://github.com/pepedinho/so_long.git) | [👴 philosopher](https://github.com/pepedinho/philosopher.git) |
-|--|--|--|--|--|--|--|
+| [📚 libft](https://github.com/pepedinho/Libft)  | [🖨️ ft_printf](https://github.com/pepedinho/printf_OK) | [👨‍🔧 get_next_line](https://github.com/pepedinho/get_next_line) | [🧮 push_swap](https://github.com/pepedinho/push_swap) | [🔀 pipex](https://github.com/pepedinho/pipex)  | [🧝‍♂️ so_long](https://github.com/pepedinho/so_long.git) | [👴 philosopher](https://github.com/pepedinho/philosopher.git) | [💻 minishell](https://github.com/pepedinho/minishell.git)
+|--|--|--|--|--|--|--|--|
 
 </td>
