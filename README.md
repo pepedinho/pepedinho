@@ -1,10 +1,3 @@
-<p align="center">
-    <img alt="non" src="https://github.com/user-attachments/assets/46769460-428a-4522-8d91-8093bde560a6" width="315" height="250" style="margin-right: 20px;" />
-  
-  <img alt="bonhomme" src="https://github.com/user-attachments/assets/4c856912-5633-409d-bbed-315a01b8d2a7" style="margin: 0 20px;" />
-  
-  <img alt="non" src="https://github.com/user-attachments/assets/46769460-428a-4522-8d91-8093bde560a6" width="315" height="250" style="margin-left: 20px;" />
-</p>
 
 
 
@@ -36,6 +29,13 @@ School: 42
 
 <p align="center">
   <img alt="oui" src="https://github.com/user-attachments/assets/165be38d-7cc8-4b22-a7d4-cf196136ea70">
+</p>
+<p align="center">
+    <img alt="non" src="https://github.com/user-attachments/assets/46769460-428a-4522-8d91-8093bde560a6" width="315" height="250" style="margin-right: 20px;" />
+  
+  <img alt="bonhomme" src="https://github.com/user-attachments/assets/4c856912-5633-409d-bbed-315a01b8d2a7" style="margin: 0 20px;" />
+  
+  <img alt="non" src="https://github.com/user-attachments/assets/46769460-428a-4522-8d91-8093bde560a6" width="315" height="250" style="margin-left: 20px;" />
 </p>
 
 ## 🗻 42 Common Core
